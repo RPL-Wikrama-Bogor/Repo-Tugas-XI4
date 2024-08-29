@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .card {
+        margin: 0 auto;
+        width: 20em;
+        text-align: center;
+        border: 1px solid #c6c6c6;
+        padding: 10px 15px;
+      }
+
+      button {
+        display: block;
+        width: 100%;
+        background-color: green;
+        color: white;
+        border: none;
+        cursor: pointer;
+        margin: 5px 0;
+        padding: 5px 0;
+      }
+
+      button:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <h3>Hitung Mundur</h3>
+      <h2 id="timer">10</h2>
+      <button id="start" onclick="startTimer()">Mulai</button>
+      <button id="pause" onclick="pauseTimer()" disabled>Berhenti</button>
+    </div>
+
+    <script>
+      const start = document.getElementById("start");
+      const pause = document.getElementById("pause");
+      const timer = document.getElementById("timer");
+
+      let seconds = 10;
+      let interval = null;
+
+      function startTimer() {
+        timer.innerHTML = seconds;
+        start.disabled = true;
+        pause.disabled = false;
+
+        interval = setInterval(function () {
+          seconds--;
+          if (seconds == 0) {
+            timer.innerHTML = "<b style='color:red;'>WAKTU HABIS</b>";
+            clearInterval(interval);
+            interval = null;
+            pause.disabled = true;
+          } else {
+            timer.innerHTML = seconds;
+          }
+        }, 1000);
+      }
+
+      function pauseTimer() {
+        pause.disabled = true;
+        start.disabled = false;
+
+        if (interval) {
+          clearInterval(interval);
+          interval = null;
+        }
+      }
+    </script>
+  </body>
+</html>
+
+<!-- 38 -->
+<!-- 43 -->

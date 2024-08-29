@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- https://disk.mediaindonesia.com/files/news/2022/12/30/WhatsApp%20Image%202022-12-22%20at%2017.07.10%20(1).jpg -->
+    <!-- https://disk.mediaindonesia.com/files/news/2022/12/30/WhatsApp%20Image%202022-12-22%20at%2017.06.59.jpg -->
+    <!-- https://disk.mediaindonesia.com/files/news/2022/12/30/WhatsApp%20Image%202022-12-22%20at%2017.06.50.jpg -->
+    <form>
+      <img
+        src="https://dummyimage.com/600x400/000/fff&text=Pilih+foto"
+        alt=""
+        width="200"
+        height="200"
+      />
+      <div>
+        <select name="image" id="image" required>
+          <option value="" disabled selected>Pilih Gambar</option>
+          <option
+            value="https://disk.mediaindonesia.com/files/news/2022/12/30/WhatsApp%20Image%202022-12-22%20at%2017.07.10%20(1).jpg"
+          >
+            Gambar 1
+          </option>
+          <option
+            value="https://disk.mediaindonesia.com/files/news/2022/12/30/WhatsApp%20Image%202022-12-22%20at%2017.06.59.jpg"
+          >
+            Gambar 2
+          </option>
+          <option
+            value="https://disk.mediaindonesia.com/files/news/2022/12/30/WhatsApp%20Image%202022-12-22%20at%2017.06.50.jpg"
+          >
+            Gambar 3
+          </option>
+        </select>
+        <select name="bentuk" id="bentuk" required>
+          <option value="" disabled selected>Pilih Bentuk</option>
+          <option value="lingkaran">lingkaran</option>
+          <option value="kotak">Kotak</option>
+          <option value="segitiga">Segitiga</option>
+        </select>
+        <select name="border" id="border" required>
+          <option value="" disabled selected>Pilih Border</option>
+          <option value="blue">Biru</option>
+          <option value="red">Merah</option>
+          <option value="green">Hijau</option>
+        </select>
+        <button type="submit">Submit</button>
+      </div>
+    </form>
+
+    <script>
+      const form = document.querySelector("form");
+
+      form.addEventListener("submit", function (e) {
+        e.preventDefault();
+        const image = form.querySelector("select#image");
+        const border = form.querySelector("select#border");
+        const bentuk = form.querySelector("select#bentuk");
+        const img = document.querySelector("img");
+        img.setAttribute("src", image.value);
+        img.style.border = `5px solid ${border.value}`;
+        if (bentuk.value === "lingkaran") {
+          img.style.borderRadius = "50%";
+          img.style.clipPath = "none";
+        }
+        if (bentuk.value === "kotak") {
+          img.style.borderRadius = "0px";
+        }
+        if (bentuk.value === "segitiga") {
+          img.style.borderRadius = "0px";
+          img.style.clipPath = "polygon(50% 0%, 0% 100%, 100% 100%)";
+        }
+      });
+    </script>
+  </body>
+</html>

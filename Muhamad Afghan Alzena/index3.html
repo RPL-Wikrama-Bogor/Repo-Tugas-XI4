@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="rekomendasi_wrapper">
+      <label for="rekomendasi">Ada rekomendasi?</label>
+      <select
+        name="rekomendasi"
+        id="rekomendasi"
+        onchange="toggleRekomendasi(this)"
+      >
+        <option disabled selected hidden>-- Pilih Rekomendasi --</option>
+        <option value="ada">ada</option>
+        <option value="tidak">Tidak</option>
+      </select>
+    </div>
+
+    <div id="rekomendasi_form">
+      <div>
+        <label for="name">Nama Lengkap</label>
+        <input type="text" name="name" id="name" />
+      </div>
+
+      <div id="kategori_wrapper">
+        <label for="kategori">Kategori Rekomendasi</label>
+        <select name="kategori" id="kategori" onchange="toggleJabatan(this)">
+          <option disabled selected hidden>-- Pilih kategori --</option>
+          <option value="Pekerja BRI">Pekerja BRI</option>
+          <option value="Purnabakti">Purnabakti</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="no_id">Nomor ID Pegawai/KTA/PN/MP</label>
+        <input type="text" name="name" id="name" />
+      </div>
+
+      <div id="jabatan_form">
+        <label for="jabatan">Jabatan</label>
+        <input type="text" name="jabatan" id="jabatan" />
+      </div>
+    </div>
+
+    <script>
+      const rekomendasiForm = document.getElementById("rekomendasi_form");
+      const jabatanForm = document.getElementById("jabatan_form");
+      rekomendasiForm.style.display = "none";
+      jabatanForm.style.display = "none";
+
+      function toggleRekomendasi(e) {
+        const rekomendasiForm = document.getElementById("rekomendasi_form");
+        if (e.value === "ada") {
+          rekomendasiForm.style.display = "block";
+        } else {
+          rekomendasiForm.style.display = "none";
+        }
+      }
+
+      function toggleJabatan(e) {
+        const jabatan = document.getElementById("jabatan");
+        const jabatanForm = document.getElementById("jabatan_form");
+        if (e.value === "Purnabakti") {
+          jabatanForm.style.display = "block";
+        } else {
+          jabatanForm.style.display = "none";
+        }
+      }
+    </script>
+  </body>
+</html>
