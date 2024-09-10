@@ -1,1 +1,2 @@
 12309510-LPKD1_XI : https://github.com/alindaeuis/LKPD1_XI
+12309510-LKPD_XI : https://github.com/alindaeuis/LKPD-2-XI ~
