@@ -1,1 +1,2 @@
 LKPD 1 : <https://github.com/Hansen-Lucky/LKPD-1>
+LKPD 2 : <https://github.com/Hansen-Lucky/LKPD_2>
