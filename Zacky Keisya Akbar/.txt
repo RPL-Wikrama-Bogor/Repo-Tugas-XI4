@@ -1,1 +1,3 @@
-LKPD 1 : https://github.com/zackykeisya/vscode2024
+https://github.com/zackykeisya/LKPDXI
+LKPD 1 = LKPD1
+LKPD 2 = LKPD2(php)
