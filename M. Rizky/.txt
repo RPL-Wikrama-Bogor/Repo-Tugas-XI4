@@ -1,1 +1,2 @@
 <Link Repo LKPD1 :https://github.com/muhamad-rizky/TugasLKPD>
+<Link Repo LKPD2 :https://github.com/muhamad-rizky/12309722LKPD2

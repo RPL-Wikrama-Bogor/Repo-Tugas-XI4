@@ -1,1 +1,3 @@
-link lkpd https://github.com/mrapiudin/LKPD-M1
+link lkpd minggu 1 : https://github.com/mrapiudin/LKPD-M1
+
+link lkpd php : https://github.com/mrapiudin/LKPD-M2
