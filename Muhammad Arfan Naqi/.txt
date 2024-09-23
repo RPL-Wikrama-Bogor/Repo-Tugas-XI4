@@ -1,0 +1,2 @@
+link lkpd 1 https://github.com/wowqws1wsw/pplg
+link lkpd 2 https://github.com/wowqws1wsw/lkpdphp

@@ -1,0 +1,2 @@
+LKPD 1 <Link Repo LKPD-1 : https://github.com/Fazriesky/12309652-LKPD1>
+LKPD 2 <LInk Repo LKPD-2 : https://github.com/Fazriesky/12309652-LKPD>
