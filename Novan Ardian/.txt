@@ -1,0 +1,2 @@
+link repo lkpd 1 = https://github.com/NovanArdian/LKPDD1
+Link repo lkpd 2 = https://github.com/NovanArdian/LKPD2
