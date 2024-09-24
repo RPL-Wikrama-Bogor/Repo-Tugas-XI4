@@ -1,2 +1,3 @@
 link repo : https://github.com/BintangNVN/Lkpd-1
-link repo : https://github.com/BintangNVN/Lkpd-2-PHP
+link repo2 : https://github.com/BintangNVN/Lkpd-2-PHP
+link trello : https://trello.com/invite/b/66f20cdc5e5f70662698d4f4/ATTIecf2eaf747dd7c282ed450d7c493324d118A288B/projek-crud
