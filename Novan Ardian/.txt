@@ -1,2 +1,3 @@
 link repo lkpd 1 = https://github.com/NovanArdian/LKPDD1
 Link repo lkpd 2 = https://github.com/NovanArdian/LKPD2
+Link TRELLO = https://trello.com/invite/b/66f20ef509c2f9d0c08d28ab/ATTIe5a207593367143c28e5ad8b77342d96FCF3BE5B/my-trello-board
