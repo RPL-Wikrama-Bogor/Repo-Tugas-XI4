@@ -1,0 +1,2 @@
+lkpd 1 : <https://github.com/nisasamca/lkpd1>
+lkpd 2 : <https://github.com/nisasamca/LKPD2_2024>

@@ -3,3 +3,4 @@ https://github.com/RPL-Wikrama-Bogor/Repo-Tugas-XI4.git>
 < LKPD 1 : https://github.com/naufalaziz18/LKPD-1.git>
 < LKPD 2 : https://github.com/naufalaziz18/LKPD-2.git>
 < TRELLO : https://trello.com/invite/b/66f20ddfa819e2c5cb652084/ATTIed2899919be14c6921b854c271dcda3357D28AA5/project-uts
+LKPD 1 : https://github.com/naufalaziz18/LKPD-1

@@ -1,0 +1,2 @@
+Link Lkpd-1 = <https://github.com/IKHSYAN-23/Tugas-PPLG-1>
+Link Lkpd-2 = <https://github.com/IKHSYAN-23/TUGAS-PPLG-2>
