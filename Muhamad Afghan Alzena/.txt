@@ -1,1 +1,6 @@
-link repo: https://github.com/MuhamadAfghan/LKPD-1-JS-Tugas-
+link repo: 
+    lkpd JS: https://github.com/MuhamadAfghan/LKPD-1-JS-Tugas-
+    lkpd PHP: https://github.com/MuhamadAfghan/LKPD-PHP
+
+link trello:
+    Absensi Guru: https://trello.com/invite/b/66f20eb8740c654b644889ca/ATTIb9c761cbceafef082de7ca89aab2932e96AC8310/absensi-guru
