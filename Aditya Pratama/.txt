@@ -1,2 +1,3 @@
 pengumpulanLKPDM1 : https://github.com/Aditya-Pratamaa/pengumpulanLKPDM1.git
 pengumpulanLKPDM1PHP : https://github.com/Aditya-Pratamaa/pengumpulanLkpdPHPM1.git
+Link Trello : https://trello.com/invite/b/66f20db4ea52daabb191a1ae/ATTIdb0306e4f3ec5c0932eb312d080e4f0280233AE6/joki-acc-game
