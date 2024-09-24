@@ -1,2 +1,3 @@
 lkpd 1 : <https://github.com/nisasamca/lkpd1>
 lkpd 2 : <https://github.com/nisasamca/LKPD2_2024>
+link trello : https://trello.com/invite/b/66e6eef7ab5edcd66164db59/ATTIa45450cb149a6c1e5db9fbab538b5dd9E1D11A4E/belanjayuk
