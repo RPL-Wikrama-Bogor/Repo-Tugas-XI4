@@ -1,2 +1,3 @@
 pengumpulanLKPDM1: https://github.com/gilban-faresy/pengumpulanlkpdm1.git
 pengumpulanLKPDPHP:https://github.com/gilban-faresy/LKPDPHP_XI_M2.git
+link trello:https://trello.com/invite/b/66f21459c74af5ee95fbc016/ATTIeac019a80ce2dcf258fc9438c090e08fA0B17BF4/projectlaraveljokiakungame
