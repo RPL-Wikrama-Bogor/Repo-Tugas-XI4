@@ -1,2 +1,3 @@
 12309510-LPKD1_XI : https://github.com/alindaeuis/LKPD1_XI
-12309510-LKPD_XI : https://github.com/alindaeuis/LKPD-2-XI ~
+12309510-LKPD_XI : https://github.com/alindaeuis/LKPD-2-XI 
+12309510-Link Trello : https://trello.com/invite/b/66f20d02bcbc60d075c4b53f/ATTIdc02fedf4253562c399202475cc83c9913AB2DB3/sistem-pengelolaan-blog
