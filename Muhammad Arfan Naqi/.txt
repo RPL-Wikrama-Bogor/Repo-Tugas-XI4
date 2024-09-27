@@ -1,2 +1,3 @@
 link lkpd 1 https://github.com/wowqws1wsw/pplg
 link lkpd 2 https://github.com/wowqws1wsw/lkpdphp
+link trello https://trello.com/invite/b/66f20d51d06f8b62d0d4ec30/ATTId472dcdbf97159079e585b181350d8368F647165/intresting-stuff
