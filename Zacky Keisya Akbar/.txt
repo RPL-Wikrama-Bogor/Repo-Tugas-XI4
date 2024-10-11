@@ -2,4 +2,4 @@ https://github.com/zackykeisya/LKPDXI
 LKPD 1 = LKPD1
 LKPD 2 = LKPD2(php)
 linktrello = https://trello.com/invite/b/66f20ed30fa018c339ef2e91/ATTIfe1873387fa9ccdeb21ebda4d49e06e409D32161/sistemmanagetugas
-
+link 3 =
