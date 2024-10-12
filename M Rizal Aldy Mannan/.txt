@@ -4,3 +4,4 @@ Studikasus: https://github.com/MRizalAldyMannan/tabel.git
             https://github.com/MRizalAldyMannan/rekomendasi.git 
 
 LKPD2: https://github.com/MRizalAldyMannan/LKP2
+trello: https://trello.com/invite/b/670890b997670dd99c7976b5/ATTI286e66f6b3f4e1f92de80e9fce4d7378F622E202/cj
