@@ -2,4 +2,7 @@ link lkpd minggu 1 : https://github.com/mrapiudin/LKPD-M1
 
 link lkpd php : https://github.com/mrapiudin/LKPD-M2
 
-link trello : https://trello.com/invite/b/66f20fc9ccbea9f55a1f4c98/ATTI5e0495b531b16d6ab05802f96927de77BAB004D3/projectlaravelabsenpmr
+link trello : https://trello.com/invite/b/66f20fc9ccbea9f55a1f4c98/ATTI5e0495b531b16d6ab05802f96927de77BAB004D3/projectlaraveldatasiswa
+
+link projek crud : https://github.com/mrapiudin/CRUD_data_siswa.git
+
