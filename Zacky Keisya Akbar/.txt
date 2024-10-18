@@ -5,3 +5,4 @@ linktrello = https://trello.com/invite/b/66f20ed30fa018c339ef2e91/ATTIfe1873387f
 link 3 =
 
 link trello CRUD :https://trello.com/b/U9TcKObs/sistemmanagetugas
+link repo CRUD ManageTugas: https://github.com/zackykeisya/LaravelCRUD-Manage-Tugas
