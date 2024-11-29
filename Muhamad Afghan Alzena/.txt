@@ -7,5 +7,6 @@ link trello:
         Github Absensi Guru: https://github.com/MuhamadAfghan/absensi-guru
     Web Blog Laravel Breeze : https://trello.com/invite/b/66f6dd8ca4ee8b2526e29dc3/ATTI4e07ca317ee5e3b788a188210675e22c007DBAF5/web-blog-laravel-breeze
         Github Web Blog Laravel Breeze : https://github.com/MuhamadAfghan/Breeze-Laravel-Blog
+        FlowChart : https://drive.google.com/file/d/16Uhz1w29SCpY6JJ4CxDsL4gJPXUEgY5o/view?usp=sharing
     Web Rayon : https://trello.com/invite/b/670774db0f753da2267cd069/ATTI0420059bf7243c9e737acc973463320fD1690817/web-rayon
         Github Web Rayon : https://github.com/MuhamadAfghan/ciawi6_prod
